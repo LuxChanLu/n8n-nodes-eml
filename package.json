@@ -1,5 +1,5 @@
 {
-  "name": "n8n-nodes-eml",
+  "name": "@luxchanlu/n8n-nodes-eml",
   "version": "0.0.1",
   "description": "N8N Nodes about EML manipulation",
   "keywords": [
