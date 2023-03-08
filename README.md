@@ -1,2 +1,2 @@
-# n8b-nodes-eml
+# n8n-nodes-eml
 [N8N Node] EML Manipulation
