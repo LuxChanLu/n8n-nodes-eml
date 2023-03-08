@@ -10,6 +10,7 @@
     "url": "git+https://github.com/LuxChanLu/n8n-nodes-eml.git"
   },
   "main": "index.js",
+  "private": false,
   "scripts": {
     "build": "tsc && gulp build:icons",
     "dev": "tsc --watch",
